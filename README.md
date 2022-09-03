@@ -1,6 +1,5 @@
 - 👋 Olá, Sofhia aqui :)
-- 🌱 Atualmente Cursando Desenvolvimento De Sistemas Com Ensino Médio na Etec Antonio Devisate (1/3)
-- 💞️ Mentora no projeto DevMenthors 
+- 🌱 Atualmente Cursando Desenvolvimento De Sistemas Com Ensino Médio na Etec Antonio Devisate (1/3) 
 - 📫 Contate - me pelo meu e-mail: sofhia.dias@etec.sp.gov.br !!
 
 <!---
