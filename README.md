@@ -35,4 +35,6 @@
 </div>
 <br>
 
+![Snake animation](https://github.com/KobDias/KobDias/blob/output/github-contribution-grid-snake.svg)
+
 
