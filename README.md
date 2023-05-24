@@ -36,6 +36,6 @@
 </div>
 <br>
 
-[![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify)](https://open.spotify.com/user/KobDias)
+[![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify)](https://open.spotify.com/user/Soff)
 
 
