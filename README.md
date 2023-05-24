@@ -9,7 +9,7 @@
 <br>
 
 
-
+<div>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=KobDias&show_icons=true&theme=dark&text_color=12d456&title_color=12d456&hide_border=true&locale=pt-br&border_radius=15&icon_color=12d456&"
@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobDias&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true)](https://github.com/KobDias/github-readme-stats)
 
-
+</div>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
