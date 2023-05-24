@@ -1,3 +1,4 @@
+
 <!--H1-->
 ### Olá! Eu sou a Sofhia Kobor Dias
 
@@ -27,10 +28,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <!--Fim Linguagens-->
-&nbsp;
 <!--Spotify Player-->
-<div>
-[![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify)](https://open.spotify.com/user/Soff)
-</div>
+[![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify)](https://open.spotify.com/user/KobDias)
 
 
