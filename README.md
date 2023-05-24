@@ -20,7 +20,7 @@
   media="(prefers-color-scheme: white), (prefers-color-scheme: no-preferences)"
 />
 
-<img src="https://github-readme-stats.vercel.app/api?username=KobDias&show_icons=true" />
+<img src="https://github-readme-stats-w4qw-kobdias.vercel.app//api?username=KobDias&show_icons=true" />
 </picture>
 
 
