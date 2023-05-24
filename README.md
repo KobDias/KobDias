@@ -12,19 +12,19 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=KobDias&show_icons=true&theme=dark&text_color=12d456&title_color=12d456&hide_border=true&locale=pt-br&border_radius=15&icon_color=12d456&"
+  srcset="https://github-readme-stats-xi-bice-80.vercel.app/api?username=KobDias&show_icons=true&theme=dark&text_color=12d456&title_color=12d456&hide_border=true&locale=pt-br&border_radius=15&icon_color=12d456&"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=KobDias&show_icons=true"
+  srcset="https://github-readme-stats-xi-bice-80.vercel.app/api?username=KobDias&show_icons=true"
   media="(prefers-color-scheme: white), (prefers-color-scheme: no-preferences)"
 />
 
-<img src="https://github-readme-stats.vercel.app/api?username=KobDias&show_icons=true" />
+<img src="https://github-readme-stats-xi-bice-80.vercel.app/api?username=KobDias&show_icons=true" />
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobDias&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true)](https://github.com/KobDias/github-readme-stats)
+[![Top Langs](github-readme-stats-xi-bice-80.vercel.app/api/top-langs/?username=KobDias&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true)](https://github.com/KobDias/github-readme-stats)
 
 
 <div style="display: inline_block">
