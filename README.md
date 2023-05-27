@@ -21,7 +21,7 @@
 &nbsp;
 <!--Stats GitHub-->
 <div class = "container">
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-w4qw-kobdias.vercel.app//api?username=KobDias&show_icons=true&theme=dark&text_color=12d456&title_color=12d456&hide_border=true&locale=pt-br&border_radius=15&icon_color=12d456" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-w4qw-kobdias.vercel.app//api?username=KobDias&show_icons=true&theme=dark&include_all_commits=true&text_color=12d456&title_color=12d456&hide_border=true&locale=pt-br&border_radius=15&icon_color=12d456" />
 <!--Fim Stats GitHub-->
 &nbsp;
 &nbsp;
