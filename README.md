@@ -11,30 +11,38 @@
 <p align="center">Linguagens</p>
 <!--Linguagen-->
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
 </div>
 <!--Fim Linguagens-->
 &nbsp;
-<!--Stats GitHub-->
-<!--
-<div class = "container">
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-w4qw-kobdias.vercel.app//api?username=KobDias&show_icons=true&theme=dark&include_all_commits=true&text_color=12d456&title_color=12d456&hide_border=true&locale=pt-br&border_radius=15&icon_color=12d456" />
--->
-<!--Fim Stats GitHub-->
-&nbsp;
 &nbsp;
 <!--Langs Github-->
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobDias&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15" />
+
+![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kobdias&hide_border=false&hide_progress=true&theme=dark&title_color=12d456&text_color=12d4566&hide_border=true&locale=pt-br&border_radius=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 </div>
 <!-- Fim Langs GitHub-->
 &nbsp;
 &nbsp;
 &nbsp;
 <!--Spotify Player-->
+
+# 📊 GitHub Stats:
+
+<center>
+
+![](https://github-profile-trophy.vercel.app/?username=kobdias&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+&nbsp;
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kobdias&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=kobdias&icon=9&color=9)](https://visitcount.itsvg.in)
+</center>
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify?background_color=0d1117&border_color=12d456)](https://open.spotify.com/user/Soff)
