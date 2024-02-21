@@ -48,6 +48,7 @@
   [![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify?background_color=0d1117&border_color=12d456)](https://open.spotify.com/user/Soff)
 </div>
 
+[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobdias&theme=github_dark)]()
 
 # 📊 GitHub Stats:
 
