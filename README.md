@@ -26,12 +26,12 @@
 <!--Langs Github-->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=city-lights&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=city-lights&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=soft-green&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 </div>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&theme=city-lights&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 </div>
 <!-- Fim Langs GitHub-->
 &nbsp;
@@ -43,13 +43,13 @@
 
 <center>
 
-![](https://github-profile-trophy.vercel.app/?username=kobdias&no-frame=true&no-bg=true&margin-w=4&theme=city-lights&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
+![](https://github-profile-trophy.vercel.app/?username=kobdias&no-frame=true&no-bg=true&margin-w=4&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=city-lights)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 &nbsp;
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kobdias&limit=5&theme=city-lights&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kobdias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=kobdias&icon=9&color=9)](https://visitcount.itsvg.in)
 </center>
 
