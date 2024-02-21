@@ -48,6 +48,7 @@
   [![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify?background_color=0d1117&border_color=12d456)](https://open.spotify.com/user/Soff)
 </div>
 
+![snake_gif](https://github.com/kobdias/kobdias/blob/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 
