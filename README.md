@@ -17,7 +17,7 @@
 <p align="center">Ferramentas</p>
 <div style="display: inline_block" align="center">
 
-![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)!
   
 </div>
 <!--Fim Linguagens-->
@@ -39,15 +39,6 @@
 &nbsp;
 <!--Spotify Player-->
 
-# 📊 GitHub Stats:
-
-<center>
-
-![](https://github-profile-trophy.vercel.app/?username=kobdias&no-frame=true&no-bg=true&margin-w=4&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-&nbsp;
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kobdias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=kobdias&icon=9&color=9)](https://visitcount.itsvg.in)
@@ -57,3 +48,9 @@
   [![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify?background_color=0d1117&border_color=12d456)](https://open.spotify.com/user/Soff)
 </div>
 
+
+# 📊 GitHub Stats:
+
+<center>
+
+![](https://github-profile-trophy.vercel.app/?username=kobdias&no-frame=true&no-bg=true&margin-w=4&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
