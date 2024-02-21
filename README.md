@@ -26,7 +26,7 @@
 <!--Langs Github-->
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kobdias&hide_border=false&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kobdias&hide_border=false&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15
 ![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 </div>
 <div align="center">
