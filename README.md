@@ -26,7 +26,7 @@
 <!--Langs Github-->
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kobdias&hide_border=false&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15
+[![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=city-lights&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 </div>
 <div align="center">
