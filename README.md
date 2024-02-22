@@ -27,6 +27,10 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=soft-green&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+&nbsp;
+&nbsp;
+
 ![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
 </div>
 <div align="center">
