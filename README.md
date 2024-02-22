@@ -38,16 +38,9 @@
 &nbsp;
 &nbsp;
 <!--Spotify Player-->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kobdias&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=kobdias&icon=9&color=9)](https://visitcount.itsvg.in)
 </center>
 
-&nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-kobdias.vercel.app/api/spotify?background_color=0d1117&border_color=12d456)](https://open.spotify.com/user/Soff)
-</div>
-
+&nbsp;
 [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobdias&theme=github_dark)]()
 
 # 📊 GitHub Stats:
