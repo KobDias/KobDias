@@ -47,8 +47,6 @@
 &nbsp;
 [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobdias&theme=github_dark)]()
 
-# 📊 GitHub Stats:
-
 <center>
 
 ![](https://github-profile-trophy.vercel.app/?username=kobdias&no-frame=true&no-bg=true&margin-w=4&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
