@@ -35,7 +35,7 @@
 </div>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&include_all_commits=true&count_private=true&layout=compact&hide=Batchfile, html&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)  ######
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&include_all_commits=true&count_private=true&layout=compact&hide=Batchfile,html&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)  ######
 </div>
 <!-- Fim Langs GitHub-->
 &nbsp;
