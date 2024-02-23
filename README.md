@@ -26,7 +26,7 @@
 <!--Langs Github-->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=soft-green&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=soft-green&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide=Batchfile,html)](https://git.io/streak-stats)
 
 &nbsp;
 &nbsp;
