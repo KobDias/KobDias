@@ -8,6 +8,13 @@
   <a href="[www.linkedin.com/in/kobdias]([www.linkedin.com/in/kobdias](https://www.linkedin.com/in/kobdias/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--Fim dos Badges-->
 <hr>
+
+- 🔭 Atualmente trabalhando em [modelo de aprendizagem de cancelamento de assinatura](https://github.com/KobDias/churnPj.git)
+
+- 🌱 Atualmente estudando **ML, QA e IA**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/KobDias](https://github.com/KobDias)
+
 <p align="center">Linguagens</p>
 <!--Linguagen-->
 <div style="display: inline_block" align="center">
@@ -18,7 +25,6 @@
 <div style="display: inline_block" align="center">
 
 ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  
 </div>
 <!--Fim Linguagens-->
 &nbsp;
