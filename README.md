@@ -9,11 +9,11 @@
 <!--Fim dos Badges-->
 <hr>
 
-- 🔭 Atualmente trabalhando em [modelo de aprendizagem de cancelamento de assinatura](https://github.com/KobDias/churnPj.git)
+- 🔭 Atualmente trabalhando em [projeto Churn](https://github.com/KobDias/churnPj.git)
 
 - 🌱 Atualmente estudando **ML, QA e IA**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/KobDias](https://github.com/KobDias)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [KobDias](https://github.com/KobDias)
 
 <p align="center">Linguagens</p>
 <!--Linguagen-->
