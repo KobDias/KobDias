@@ -1,58 +1,50 @@
+### 👋 Olá! Eu sou a Sofhia Kobor Dias | Cientista de Dados e Especialista em IA
 
-<!--H1-->
-### Olá! Eu sou a Sofhia Kobor Dias
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobdias)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:kobordias@gmail.com)
+[![DIO](https://img.shields.io/badge/-DIO%20Profile-8A2BE2)](https://www.dio.me/users/kobordiass)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sofhiakobordias)
 
-<!--Badges-->
-  <a href="https://www.instagram.com/kobdias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kobordias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kobdias" ><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--Fim dos Badges-->
-<hr>
+---
 
-- 🔭 Atualmente trabalhando em [projeto Churn](https://github.com/KobDias/churnPj.git)
+### 🧠 Sobre Mim
+Cientista de Dados e Especialista em IA com experiência em desenvolvimento de modelos preditivos e soluções de machine learning. Minha paixão é transformar dados em insights acionáveis.
 
-- 🌱 Estudando **ML, QA e IA**
+- 🔭 Projeto em destaque: **[Sistema de Predição de Churn](https://github.com/KobDias/churnPj)** - Modelo de classificação para prever rotatividade de clientes
+- 🌱 Estudando: **Deep Learning e Processamento de Linguagem Natural**
+- 💡 Interesses: **Modelos Generativos, Visão Computacional e Big Data**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [KobDias](https://github.com/KobDias)
+---
 
-<p align="center">Linguagens</p>
-<!--Linguagen-->
-<div style="display: inline_block" align="center">
+### ⚙️ Tech Stack de IA & Data Science
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Linguagens & Ferramentas:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-<p align="center">Ferramentas</p>
-<div style="display: inline_block" align="center">
+**Bibliotecas & Frameworks:**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</div>
-<!--Fim Linguagens-->
-&nbsp;
-&nbsp;
-<!--Langs Github-->
-<div align="center">
+**Visualização & Cloud:**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobdias&theme=soft-green&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide=Batchfile,html,css)](https://git.io/streak-stats)
+---
 
-&nbsp;
-&nbsp;
+### 🚀 Projetos de Destaque
 
-![](https://github-readme-stats.vercel.app/api?username=kobdias&include_all_commits=true&count_private=true&hide_progress=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
-</div>
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&include_all_commits=true&count_private=true&layout=compact&hide=Batchfile,sccs,hack,css,SCSS,typescript,html&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
-</div>
-<!-- Fim Langs GitHub-->
-&nbsp;
-&nbsp;
-&nbsp;
-<!--Spotify Player-->
-</center>
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[churnPj](https://github.com/KobDias/churnPj)** | Sistema de predição de rotatividade de clientes com 92% de acurácia | Python, Pandas, Scikit-learn, XGBoost |
+---
 
-&nbsp;
-[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobdias&theme=github_dark)]()
+### 📊 GitHub Analytics
 
-<center>
-
-![](https://github-profile-trophy.vercel.app/?username=kobdias&no-frame=true&no-bg=true&margin-w=4&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&border_radius=15)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kobdias&show_icons=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&layout=compact&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&hide=html,css,php,java"/>
+</p>
