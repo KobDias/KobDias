@@ -1,50 +1,164 @@
-### 👋 Olá! Eu sou a Sofhia Kobor Dias | Cientista de Dados e Especialista em IA
+# 👋 Olá! Eu sou a Sofhia Kobor Dias
+### 🎓 Técnica em Desenvolvimento de Sistemas | Graduanda em IA | Assistente de Dados
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobdias)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:kobordias@gmail.com)
-[![DIO](https://img.shields.io/badge/-DIO%20Profile-8A2BE2)](https://www.dio.me/users/kobordiass)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sofhiakobordias)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobdias)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kobordias@gmail.com)
+[![DIO](https://img.shields.io/badge/-DIO%20Profile-8A2BE2?style=for-the-badge)](https://www.dio.me/users/kobordiass)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sofhiakobordias)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=kobdias&color=12d456&style=for-the-badge)
 
-### 🧠 Sobre Mim
-Cientista de Dados e Especialista em IA com experiência em desenvolvimento de modelos preditivos e soluções de machine learning. Minha paixão é transformar dados em insights acionáveis.
-
-- 🔭 Projeto em destaque: **[Sistema de Predição de Churn](https://github.com/KobDias/churnPj)** - Modelo de classificação para prever rotatividade de clientes
-- 🌱 Estudando: **Deep Learning e Processamento de Linguagem Natural**
-- 💡 Interesses: **Modelos Generativos, Visão Computacional e Big Data**
+</div>
 
 ---
 
-### ⚙️ Tech Stack de IA & Data Science
+## 📊 Sobre Mim
 
-**Linguagens & Ferramentas:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Técnica em Desenvolvimento de Sistemas** cursando **Bacharelado em Inteligência Artificial**, atualmente trabalho como **Assistente de Dados na Tray**, onde apoio equipes de produto e product managers com análises e insights estratégicos.
 
-**Bibliotecas & Frameworks:**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+### 🎯 Experiência Atual
+- 💼 **Assistente de Dados na Tray** - Apoio a equipes de produto e PMs
+- 📊 **Dashboards & BI**: Criação de relatórios em **Metabase** e **Tableau**
+- 🔍 **Análise de Dados**: Insights para tomada de decisão de produto
+- 📈 **Suporte Estratégico**: Análises para Product Managers
 
-**Visualização & Cloud:**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+### 🌱 Estudando & Desenvolvendo
+- 🎓 **Bacharelado em Inteligência Artificial** (em andamento)
+- 🔭 **Projeto em destaque**: [Sistema de Predição de Churn](https://github.com/KobDias/churnPj) - **86% de acurácia**
+- 💡 **Aprendendo**: Machine Learning, Feature Engineering e Data Science
+- 🚀 **Interesse**: Aplicação de IA em produtos e análise preditiva
 
 ---
 
-### 🚀 Projetos de Destaque
+## ⚙️ Stack Tecnológica
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[churnPj](https://github.com/KobDias/churnPj)** | Sistema de predição de rotatividade de clientes com 92% de acurácia | Python, Pandas, Scikit-learn, XGBoost |
+### 💻 **Linguagens & Ferramentas de Dev**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 📊 **Business Intelligence & Visualização**
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### 🤖 **Data Science & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### 🛠️ **Desenvolvimento & Versionamento**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Projetos & Experiências
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kobdias&show_icons=true&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&layout=compact&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&hide=html,css,php,java"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 [Sistema de Predição de Churn](https://github.com/KobDias/churnPj)
+**Modelo de ML para análise de rotatividade**
+
+**🏆 Resultados:**
+- ✅ **86% de acurácia** no modelo final
+- 🛠️ **Feature inovadora**: Tratamento automático de valores ausentes
+- 🔧 **Funcionalidade especial**: Zera atributos faltantes para análise contínua
+
+**💡 Aprendizados:**
+- Feature Engineering para dados faltantes
+- Técnicas de imputação e tratamento de missing values
+- Implementação de pipeline de dados robusto
+
+**🛠️ Stack:** Python, Pandas, Scikit-learn, XGBoost
+
+</td>
+<td width="50%">
+
+### 📊 Experiência na Tray
+**Assistente de Dados - Suporte a Produtos**
+
+**🎯 Responsabilidades:**
+- 📈 Criação de dashboards em **Metabase** e **Tableau**
+- 🔍 Análises para **Product Managers**
+- 📋 Suporte analítico para equipes de produto
+- 📊 Relatórios estratégicos e KPIs
+
+**💼 Habilidades Desenvolvidas:**
+- Business Intelligence
+- Tradução de dados em insights práticos
+- Análise de métricas de produto
+- Visualização de dados para negócio
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kobdias&show_icons=true&theme=dark&title_color=12d456&text_color=12d456&icon_color=12d456&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&layout=compact&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&hide=html,css,php,java&langs_count=6"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kobdias&theme=dark&hide_border=true&stroke=12d456&ring=12d456&fire=12d456&currStreakNum=12d456&sideNums=12d456&currStreakLabel=12d456&sideLabels=12d456&dates=12d456" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Formação & Desenvolvimento
+
+- 💻 **Técnica em Desenvolvimento de Sistemas** - Completo
+- 🤖 **Bacharelado em Inteligência Artificial** - Em andamento
+- 📊 **Experiência Profissional** - Assistente de Dados na Tray
+- 📜 **Cursos DIO** - Desenvolvimento contínuo em Data Science
+- 🏅 **Kaggle** - Participação ativa em competições de ML
+
+---
+
+## 💼 Experiência Profissional
+
+### 📈 **Tray - Assistente de Dados**
+> Apoio analítico a Product Managers e equipes de produto
+
+**Principais Atividades:**
+- 📊 Desenvolvimento de dashboards estratégicos
+- 🔍 Análise de métricas de produto e performance
+- 📋 Relatórios executivos para tomada de decisão
+- 🤝 Colaboração direta com PMs e stakeholders
+- 🛠️ Uso diário de **Metabase** e **Tableau**
+
+---
+
+## 🤝 Vamos Conectar?
+
+Estou sempre interessada em discutir sobre **Data Science**, **IA aplicada a produtos** e **Business Intelligence**. Vamos trocar experiências!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kobdias)
+[![Gmail](https://img.shields.io/badge/Gmail-Envie%20um%20email-red?style=for-the-badge&logo=gmail)](mailto:kobordias@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+**"De técnica em sistemas a IA: construindo o futuro, um dado por vez!"** 🚀
+
+⭐ **Gostou do perfil? Deixe uma estrela nos repositórios!**
+
+</div>
