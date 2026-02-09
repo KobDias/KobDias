@@ -103,10 +103,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kobdias&show_icons=true&theme=dark&title_color=12d456&text_color=12d456&icon_color=12d456&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobdias&layout=compact&theme=dark&title_color=12d456&text_color=12d456&hide_border=true&locale=pt-br&hide=html,css,php,java&langs_count=6"/>
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobdias&theme=dark&hide_border=true&stroke=12d456&ring=12d456&fire=12d456&currStreakNum=12d456&sideNums=12d456&currStreakLabel=12d456&sideLabels=12d456&dates=12d456" alt="GitHub Streak"/>
@@ -150,14 +146,6 @@ Estou sempre interessada em discutir sobre **Data Science**, **IA aplicada a pro
 </div>
 
 ---
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  
-**"De técnica em sistemas a IA: construindo o futuro, um dado por vez!"** 🚀
 
 ⭐ **Gostou do perfil? Deixe uma estrela nos repositórios!**
 
